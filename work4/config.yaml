@@ -1,0 +1,12 @@
+folder_in: /home/ancha/tst
+folder_out: /home/ancha/out
+folder_ext:  /home/ancha/folder1
+folder_ext3: /home/ancha/folder3
+folder_bad: /home/ancha/folder2
+count: 5
+bs: 10M
+arc_type: zip
+ip: localhost
+user: ancha
+passwd: "15102014"
+pkgname: p7zip-full
